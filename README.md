@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="./assets/solstice-banner.png" alt="Solstice Studio" width="720" />
+  <img src="./assets/solstice-studio-banner.png" alt="Solstice Studio" width="720" />
 </p>
 
 <h3 align="center">Have It Your Way.</h3>
@@ -30,3 +30,4 @@
   <img src="https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
